@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    Layout = "_RoomsLayout";
+
+}
+
+@{
+    string[] roomName = { "room1", "room2", "room3" };
+    int[] roomPrice = { 100, 200, 300};
+    string[] roomImage = { "https://i0.wp.com/vuniversity.in/wp-content/uploads/2023/10/Types-of-room-single.png?fit=600%2C375&ssl=1", "https://www.pearlhotelnyc.com/hs-fs/hubfs/2.jpg?width=992&height=661&name=2.jpg", "https://www.londonhousehotels.com/wp-content/uploads/2017/11/5.-1-standard-double-MAIN.jpg" };
+}
+
+@for (int i=0; i<roomName.Length;i++){
+
+
+
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="@roomImage[i]" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">@roomName[i]</h5>
+            <p class="card-text">@roomPrice[i]</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+
+}

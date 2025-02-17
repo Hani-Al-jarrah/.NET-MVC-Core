@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\",
+  "WorkspaceRootPath": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\views\\airbnbs\\detailes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\views\\airbnbs\\detailes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:views\\airbnbs\\detailes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\views\\airbnbs\\airbnbs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\views\\airbnbs\\airbnbs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:views\\airbnbs\\airbnbs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\controllers\\airbnbscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\controllers\\airbnbscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:controllers\\airbnbscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\views\\tours\\detailes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\views\\tours\\detailes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:views\\tours\\detailes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\views\\tours\\tours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\views\\tours\\tours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:views\\tours\\tours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\controllers\\tourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\controllers\\tourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:controllers\\tourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\orange\\desktop\\asp.net core\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72D81D9-7B8A-4D03-98BF-9FA111B56B9C}|Task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,147 +62,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Detailes.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Airbnbs\\Detailes.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Airbnbs\\Detailes.cshtml",
               "RelativeDocumentMoniker": "Views\\Airbnbs\\Detailes.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Airbnbs\\Detailes.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Airbnbs\\Detailes.cshtml",
               "RelativeToolTip": "Views\\Airbnbs\\Detailes.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T20:33:29.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:33:29.802Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Airbnbs.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Airbnbs\\Airbnbs.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Airbnbs\\Airbnbs.cshtml",
               "RelativeDocumentMoniker": "Views\\Airbnbs\\Airbnbs.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Airbnbs\\Airbnbs.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Airbnbs\\Airbnbs.cshtml",
               "RelativeToolTip": "Views\\Airbnbs\\Airbnbs.cshtml",
               "ViewState": "AgIAAIMBAAAAAAAAAAAkwF8BAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T20:33:03.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:33:03.221Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AirbnbsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Controllers\\AirbnbsController.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Controllers\\AirbnbsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AirbnbsController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Controllers\\AirbnbsController.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Controllers\\AirbnbsController.cs",
               "RelativeToolTip": "Controllers\\AirbnbsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T20:32:30.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:32:30.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Detailes.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Tours\\Detailes.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Tours\\Detailes.cshtml",
               "RelativeDocumentMoniker": "Views\\Tours\\Detailes.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Tours\\Detailes.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Tours\\Detailes.cshtml",
               "RelativeToolTip": "Views\\Tours\\Detailes.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T20:15:08.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:15:08.679Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Tours.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Tours\\Tours.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Tours\\Tours.cshtml",
               "RelativeDocumentMoniker": "Views\\Tours\\Tours.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Tours\\Tours.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Tours\\Tours.cshtml",
               "RelativeToolTip": "Views\\Tours\\Tours.cshtml",
               "ViewState": "AgIAACABAAAAAAAAAAAAACsBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T18:35:34.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T18:35:34.796Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ToursController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Controllers\\ToursController.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Controllers\\ToursController.cs",
               "RelativeDocumentMoniker": "Controllers\\ToursController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Controllers\\ToursController.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Controllers\\ToursController.cs",
               "RelativeToolTip": "Controllers\\ToursController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T18:23:36.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T18:23:36.001Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T18:22:40.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T18:22:40.206Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "main.js",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\wwwroot\\js\\main.js",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\wwwroot\\js\\main.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\main.js",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\wwwroot\\js\\main.js",
               "RelativeToolTip": "wwwroot\\js\\main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-16T18:08:12.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T18:08:12.556Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\wwwroot\\css\\style.css",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\wwwroot\\css\\style.css",
               "RelativeToolTip": "wwwroot\\css\\style.css",
               "ViewState": "AgIAAMciAAAAAAAAAAAAANYiAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T18:07:49.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T18:07:49.997Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T18:03:37.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T18:03:37.167Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-16T14:02:07.463Z",
               "EditorCaption": ""
@@ -211,27 +205,25 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T14:00:33.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:00:33.726Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core\\Task1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:59:09.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T13:59:09.956Z"
             }
           ]
         }

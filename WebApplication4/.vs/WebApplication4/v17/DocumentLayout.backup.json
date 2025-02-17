@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\views\\home\\rooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\rooms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\views\\shared\\_adminlayout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_adminlayout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\views\\shared\\_roomslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_roomslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\wwwroot\\css\\adminstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\wwwroot\\css\\adminstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\webapplication4\\webapplication4\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02009A76-270F-4CDE-828B-397B0DD0112C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_RoomsLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Shared\\_RoomsLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_RoomsLayout.cshtml",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Shared\\_RoomsLayout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_RoomsLayout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T17:25:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication4\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication4\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-17T17:19:39.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adminStyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\wwwroot\\css\\adminStyleSheet.css",
+              "RelativeDocumentMoniker": "WebApplication4\\wwwroot\\css\\adminStyleSheet.css",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\wwwroot\\css\\adminStyleSheet.css",
+              "RelativeToolTip": "WebApplication4\\wwwroot\\css\\adminStyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-17T16:39:47.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:37:40.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Shared\\_AdminLayout1.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_AdminLayout1.cshtml",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Shared\\_AdminLayout1.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_AdminLayout1.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:37:12.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rooms.cshtml",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Home\\Rooms.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Rooms.cshtml",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Home\\Rooms.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Rooms.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:29:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:26:52.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:25:28.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:30:24.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:29:18.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
