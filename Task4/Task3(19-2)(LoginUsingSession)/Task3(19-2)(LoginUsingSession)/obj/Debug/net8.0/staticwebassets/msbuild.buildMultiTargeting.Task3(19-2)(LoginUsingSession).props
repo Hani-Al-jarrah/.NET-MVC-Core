@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Task3(19-2)(LoginUsingSession).props" />
+</Project>

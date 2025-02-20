@@ -1,0 +1,29 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Profile</title>
+</head>
+<body>
+    <h1>Name:  @ViewBag.Name</h1>
+    <h1>Email:  @ViewBag.Email</h1>
+    <h1>Password:  @ViewBag.Password</h1>
+
+
+    <form method="post" action="~/User/HandleEdit">
+        <div>
+            <label>Address:</label>
+            <input type="text" name="address" value="@ViewBag.Address" />
+        </div>
+        <div>
+            <label>Phone:</label>
+            <input type="text" name="phone" value="@ViewBag.Phone" />
+        </div>
+        <button type="submit">Save</button>
+    </form>
+    <h1>Email:  @ViewBag.Address</h1>
+    <h1>Password:  @ViewBag.Phone</h1>
+</body>
+</html>
