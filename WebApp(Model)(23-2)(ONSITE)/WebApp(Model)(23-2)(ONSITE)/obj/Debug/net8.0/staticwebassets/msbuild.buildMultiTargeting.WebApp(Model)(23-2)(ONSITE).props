@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApp(Model)(23-2)(ONSITE).props" />
+</Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4JaQBwqvAqc=",
+  "dgSpecHash": "a1uOz86tKCw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mac\\Desktop\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession).csproj",
+  "projectFilePath": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task4\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mac\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\mac\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

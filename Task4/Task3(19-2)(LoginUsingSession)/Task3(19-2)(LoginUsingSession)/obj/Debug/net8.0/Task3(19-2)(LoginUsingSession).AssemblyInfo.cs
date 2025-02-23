@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task3(19-2)(LoginUsingSession)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80d5b7ee4715210083b046c4f2703f370b6a95dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task3(19-2)(LoginUsingSession)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task3(19-2)(LoginUsingSession)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5571,11 +5571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mac\\Desktop\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession).csproj",
+      "projectUniqueName": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task4\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession).csproj",
       "projectName": "Task3(19-2)(LoginUsingSession)",
-      "projectPath": "C:\\Users\\mac\\Desktop\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession).csproj",
+      "projectPath": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task4\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession).csproj",
       "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mac\\Desktop\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession)\\obj\\",
+      "outputPath": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\Task4\\Task3(19-2)(LoginUsingSession)\\Task3(19-2)(LoginUsingSession)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mac\\AppData\\Roaming\\NuGet\\NuGet.Config",

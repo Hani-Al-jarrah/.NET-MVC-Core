@@ -1,0 +1,47 @@
+﻿@* @model IEnumerable< WebApp_Model__23_2__ONSITE_.Models.User>
+
+<h2>Users List</h2>
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+    </tr>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Id</td>
+            <td>@user.Name</td>
+            <td>@user.Email</td>
+        </tr>
+    }
+</table>
+
+<a asp-controller="User" asp-action="Create">Add New User</a>
+ *@
+
+ @model IEnumerable<WebApp_Model__23_2__ONSITE_.Models.User>
+
+<h2>Users List</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().Id)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Name)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Email)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => user.Id)</td>
+                <td>@Html.DisplayFor(modelItem => user.Name)</td>
+                <td>@Html.DisplayFor(modelItem => user.Email)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Add New User", "Create", "User", null, new { @class = "btn btn-primary" })

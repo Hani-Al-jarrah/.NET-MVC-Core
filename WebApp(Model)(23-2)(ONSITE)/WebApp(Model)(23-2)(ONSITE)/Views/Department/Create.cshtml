@@ -1,0 +1,22 @@
+﻿@model WebApp_Model__23_2__ONSITE_.Models.Department
+
+<h2>Add New User</h2>
+
+<form method="post" action="~/Department/Create">
+    <label>Name:</label>
+    <input type="text" asp-for="Name" required /><br>
+
+    <label>Location:</label>
+    <input type="text" asp-for="Location" required /><br>
+
+    <label>Head:</label>
+    <input type="text" asp-for="Head" required /><br>
+
+    <label>EmployeesCount:</label>
+    <input type="text" asp-for="EmployeesCount" required /><br>
+
+    <button type="submit">Save</button>
+</form>
+
+<a asp-controller="Department" asp-action="Index">Back to List</a>
+ 
