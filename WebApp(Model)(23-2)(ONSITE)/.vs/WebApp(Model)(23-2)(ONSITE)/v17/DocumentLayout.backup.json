@@ -1,18 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\",
+  "WorkspaceRootPath": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\source\\repos\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\source\\repos\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\desktop\\.net-mvc-core\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|c:\\users\\mac\\source\\repos\\webapp(model)(23-2)(onsite)\\webapp(model)(23-2)(onsite)\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A213E44-82EC-4B87-B760-4B3569AC2A3B}|WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj|solutionrelative:webapp(model)(23-2)(onsite)\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +74,181 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Edit.cshtml*",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T17:39:23.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T15:38:13.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T15:25:44.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:19:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACwAAACAAAAAAKA2wDMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:17:56.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Models\\Product.cs",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:17:19.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:51:23.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:54:38.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAmpmZmZkOwD0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:52:28.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:51:42.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:50:41.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Create.cshtml*",
-              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-23T15:11:49.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Index.cshtml*",
-              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T14:54:55.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:54:55.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Controllers\\DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "WebApp(Model)(23-2)(ONSITE)\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Controllers\\DepartmentController.cs*",
-              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Controllers\\DepartmentController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApp(Model)(23-2)(ONSITE)\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACwAAAAANTMzMzMuwBMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T14:43:15.439Z",
               "EditorCaption": ""

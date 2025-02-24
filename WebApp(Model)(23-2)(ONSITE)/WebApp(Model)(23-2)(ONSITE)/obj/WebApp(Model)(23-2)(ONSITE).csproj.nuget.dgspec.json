@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj": {}
+    "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj": {}
   },
   "projects": {
-    "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj": {
+    "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj",
+        "projectUniqueName": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj",
         "projectName": "WebApp(Model)(23-2)(ONSITE)",
-        "projectPath": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj",
+        "projectPath": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE).csproj",
         "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mac\\source\\repos\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\obj\\",
+        "outputPath": "C:\\Users\\mac\\Desktop\\.NET-MVC-Core\\WebApp(Model)(23-2)(ONSITE)\\WebApp(Model)(23-2)(ONSITE)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mac\\AppData\\Roaming\\NuGet\\NuGet.Config",

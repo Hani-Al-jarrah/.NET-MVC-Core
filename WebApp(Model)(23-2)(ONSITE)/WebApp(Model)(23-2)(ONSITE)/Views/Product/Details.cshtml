@@ -1,0 +1,12 @@
+﻿@model WebApp_Model__23_2__ONSITE_.Models.Product
+
+<h2>Product Details</h2>
+
+<p><strong>ID:</strong> @Model.Id</p>
+<p><strong>Name:</strong> @Model.Name</p>
+<p><strong>Price:</strong> @Model.Price</p>
+<p><strong>Description:</strong> @Model.Description</p>
+<p><strong>Details:</strong> @Model.Details</p>
+<img src="@Model.Image" class="card-img-top" alt="@Model.Name" style="height: 100%; object-fit: cover;">
+
+<a asp-controller="Product" asp-action="Index">Back to List</a>

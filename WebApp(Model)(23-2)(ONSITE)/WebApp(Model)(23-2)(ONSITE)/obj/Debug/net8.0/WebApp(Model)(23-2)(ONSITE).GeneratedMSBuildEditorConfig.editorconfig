@@ -17,55 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApp_Model__23_2__ONSITE_
 build_property.RootNamespace = WebApp_Model__23_2__ONSITE_
-build_property.ProjectDir = C:\Users\mac\source\repos\WebApp(Model)(23-2)(ONSITE)\WebApp(Model)(23-2)(ONSITE)\
+build_property.ProjectDir = C:\Users\mac\Desktop\.NET-MVC-Core\WebApp(Model)(23-2)(ONSITE)\WebApp(Model)(23-2)(ONSITE)\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mac\source\repos\WebApp(Model)(23-2)(ONSITE)\WebApp(Model)(23-2)(ONSITE)
+build_property.MSBuildProjectDirectory = C:\Users\mac\Desktop\.NET-MVC-Core\WebApp(Model)(23-2)(ONSITE)\WebApp(Model)(23-2)(ONSITE)
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Department/Create.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Department/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Department/Index.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Department/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Home/Index.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Home/Privacy.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Shared/Error.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/User/Create.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/User/Index.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/_ViewImports.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/_ViewStart.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mac/source/repos/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Shared/_Layout.cshtml]
+[C:/Users/mac/Desktop/.NET-MVC-Core/WebApp(Model)(23-2)(ONSITE)/WebApp(Model)(23-2)(ONSITE)/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qkd7mz0fow

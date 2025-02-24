@@ -1,0 +1,25 @@
+﻿@model WebApp_Model__23_2__ONSITE_.Models.Product
+
+<h2>Edit Product</h2>
+
+<form method="post" asp-controller="Product" asp-action="Edit">
+
+
+    <label>Name:</label>
+    <input type="text" asp-for="Name" class="form-control" />
+
+    <label>Price:</label>
+    <input type="text" asp-for="Price" class="form-control" />
+
+    <label>Description:</label>
+    <input type="text" asp-for="Description" class="form-control" />
+
+    <label>Details:</label>
+    <input type="text" asp-for="Details" class="form-control" />
+
+    <label>Image:</label>
+    <input type="text" asp-for="Image" class="form-control" />
+
+    <br />
+    <button type="submit">Save Changes</button>
+</form>
