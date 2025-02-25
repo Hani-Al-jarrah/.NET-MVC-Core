@@ -1,0 +1,6 @@
+﻿<h2>Welcome, @ViewBag.name</h2>
+
+@if (Context.Session.GetString("UserRole") == "Admin" || Context.Session.GetString("UserRole") == "SuperAdmin")
+{
+    <a href="@Url.Action("Index", "User")" class="btn">List</a>
+}

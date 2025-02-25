@@ -1,0 +1,20 @@
+﻿@model ECommerce_Task7_.Models.User
+
+
+
+<h2>Edit User</h2>
+
+<form method="post" asp-controller="Users" asp-action="EditProfile">
+
+
+
+    <label>Name:</label>
+    <input type="text" asp-for="Name" class="form-control"  />
+
+    <label>Email:</label>
+    <input type="email" asp-for="Email" class="form-control"  />
+    <p>@ViewBag.msg2</p>
+
+    <br />
+    <button type="submit">Save Changes</button>
+</form>

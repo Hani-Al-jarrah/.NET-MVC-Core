@@ -1,0 +1,32 @@
+﻿@model WebApp_Model__23_2__ONSITE_.Models.User
+
+<h2>Register</h2>
+
+
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+<form method="post" asp-action="Register">
+    @Html.AntiForgeryToken() @* Prevents malicious users from sending fake requests from external websites. *@
+
+    <div class="form-group">
+        <label>Full Name</label>
+        <input type="text" name="Name" class="form-control"  />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input type="text" name="Email" class="form-control"  />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input type="password" name="Password" class="form-control"  />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Register</button>
+</form>

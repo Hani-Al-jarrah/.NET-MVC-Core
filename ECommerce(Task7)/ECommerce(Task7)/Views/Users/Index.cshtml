@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ECommerce_Task7_.Models.Product>
+
+
+
+@{
+    ViewData["Title"] = "Products Page";
+}
+
+<h2 class="text-center my-4">Products </h2><br />
+
+
+<div class="container">
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <img src="@product.Image" class="card-img-top" alt="@product.Name" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text">@product.Description</p>
+                        <p><strong>Price:</strong> @product.Price J.D🤑💸 </p>
+                        <a asp-controller="Users" asp-action="Details" asp-route-id="@product.Id" class="btn btn-success">Details</a>
+                        <div class="d-flex justify-content-between">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

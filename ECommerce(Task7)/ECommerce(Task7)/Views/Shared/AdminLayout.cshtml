@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+       <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> 
+    @* <link rel="stylesheet" href="~/task_2.styles.css" asp-append-version="true" /> *@
+   
+@*     <link rel="stylesheet" href="~/ECommerce_Task7_.styles.css" asp-append-version="true" /> *@
+    <link href="~/css/admin.css" rel="stylesheet" />
+
+</head>
+<body>
+    <header>
+<div class="container-fluid">
+    <div class="row flex-nowrap">
+        <div class="col-auto col-md-3 col-xl-2 px-sm-2 px-0 bg-dark">
+            <div class="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100">
+                <a href="/" class="d-flex align-items-center pb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+                    <span class="fs-5 d-none d-sm-inline">Admin Dashboard</span>
+                </a>
+                <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
+                   
+                    <li>
+                                <a asp-controller="Products" asp-action="IndexUsers" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                            <i class="fs-4 bi-speedometer2"></i> <span class="ms-1 d-none d-sm-inline">Users</span>
+                        </a>
+
+                    </li>
+
+
+                  
+                    <li>
+                                <a asp-controller="Products" asp-action="Index" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                            <i class="fs-4 bi-grid"></i> <span class="ms-1 d-none d-sm-inline">Products</span>
+                        </a>
+                       
+                 
+                    </li>
+                            <li>
+                                <a asp-controller="Users" asp-action="Logout" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                                    <i class="fs-4 bi-grid"></i> <span class="ms-1 d-none d-sm-inline">Logout</span>
+                                </a>
+
+
+                            </li>
+                        </ul>
+               
+                <hr>
+                
+            </div>
+        </div>
+        <div class="col py-3">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+
+<footer>
+   
+</footer>
+</body>
+</html>
