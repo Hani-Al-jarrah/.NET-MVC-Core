@@ -1,0 +1,33 @@
+﻿@model Task8WithGroup_3_7_25_.Models.EmpTask
+
+<form asp-action="AssignTask">
+
+    <input hidden type="number" asp-for="EmployeeId" value="@ViewBag.EmployeeId" />
+
+    <label asp-for="Title"></label>
+    <input type="text" asp-for="Title" required />
+
+
+    <label asp-for="Description"></label>
+    <input type="text" asp-for="Description" required />
+
+
+
+
+
+
+    <label asp-for="StartDate"></label>
+    <input type="datetime" asp-for="StartDate" required />
+
+
+    <label asp-for="EndDate"></label>
+    <input type="date" asp-for="EndDate" required />
+
+    <button type="submit">Add New Task</button>
+
+
+
+
+</form>
+<a asp-action="Home">Home</a>
+

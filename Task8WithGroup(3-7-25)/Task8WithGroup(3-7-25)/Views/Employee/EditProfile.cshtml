@@ -1,0 +1,30 @@
+﻿@model Task8WithGroup_3_7_25_.Models.Employee
+
+
+<form asp-action="EditProfile">
+
+
+
+    <label>Name:</label>
+    <input type="text" asp-for="FullName" value="@Model.FullName" />
+
+    <label>Email:</label>
+    <input type="email" asp-for="Email" value="@Model.Email" />
+
+
+    <label>password:</label>
+    <input type="password" asp-for="Password" value="@Model.Password" />
+
+
+    <label>Image</label>
+    <input type="text" asp-for="ProfileImage" value="@Model.ProfileImage" />
+
+    <button type="submit">Save</button>
+
+
+
+
+
+
+
+</form>

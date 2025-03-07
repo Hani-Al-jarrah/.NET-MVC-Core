@@ -1,0 +1,21 @@
+﻿@model Task8WithGroup_3_7_25_.Models.EmpTask
+
+<form asp-action="ChangeStatus">
+    <input hidden value="@ViewBag.taskid"  asp-for="TaskId"/>
+    <input readonly asp-for="Title" />
+    <input readonly asp-for="Description" />
+    <select name="newstatus" >
+        <option value="TO DO">TO DO</option>
+        <option value="DONE">DONE</option>
+
+    </select>
+
+    <input readonly asp-for="StartDate" />
+    <input readonly asp-for="EndDate" />
+
+    <button type="submit">Update</button>
+
+
+
+
+</form>

@@ -1,0 +1,18 @@
+﻿
+@model List< Task8WithGroup_3_7_25_.Models.Employee>
+
+
+@foreach (var emp in Model) {
+
+<div class="card" style="width: 18rem;">
+    <img class="card-img-top" src="@emp.ProfileImage" alt="Card image cap">
+    <div class="card-body">
+        <h5 class="card-title">@emp.FullName</h5>
+        <h6 class="card-text">@emp.Email</h6>
+        <a asp-controller="Manager" asp-action="ViewTask" , asp-route-EmployeeId="@emp.EmployeeId"  class="btn btn-primary">View Tasks</a>
+            <a href="@Url.Action("AssignTask" , "Manager" , new{employeeId = emp.EmployeeId})">Add New Task</a>
+    </div>
+</div>
+}
+
+<a asp-controller="Manager" asp-action="AddEmployee">Add  New Employee</a>

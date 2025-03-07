@@ -1,0 +1,21 @@
+﻿@model Task8WithGroup_3_7_25_.Models.Manager
+
+<form method="post"  asp-controller="Manager" asp-action="Login">
+
+    <label>Email:</label>
+    <input type="email" name="email" />
+
+
+
+    <label>Password:</label>
+    <input type="password" name="password"/>
+
+    <button type="submit">login</button>
+   
+
+</form>
+
+@if (ViewBag.msg != null)
+{
+    <h3>@ViewBag.msg</h3>
+}

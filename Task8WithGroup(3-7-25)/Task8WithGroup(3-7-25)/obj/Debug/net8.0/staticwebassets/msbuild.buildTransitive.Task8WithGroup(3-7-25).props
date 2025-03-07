@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Task8WithGroup(3-7-25).props" />
+</Project>

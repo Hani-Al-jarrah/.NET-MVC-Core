@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Task8WithGroup_3_7_25_.Models.EmpTask>
+
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>status</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Change Status</th>
+        </tr>
+
+
+    </thead>
+
+    <tbody>
+
+        @foreach (var task in Model)
+        {
+            <tr>
+
+                <td>@task.Title</td>
+                <td>@task.Description</td>
+
+                <td>@task.Status</td>
+
+                <td>@task.StartDate</td>
+
+
+                <td>@task.EndDate</td>
+                <td ><a asp-controller="Employee" asp-action="ChangeStatus" asp-route-id="@task.TaskId">Go to Change</a></td>
+
+
+
+            </tr>
+
+        }
+
+    </tbody>
+</table>
+
+<a asp-controller="Employee" asp-action="Profile">Profile</a>

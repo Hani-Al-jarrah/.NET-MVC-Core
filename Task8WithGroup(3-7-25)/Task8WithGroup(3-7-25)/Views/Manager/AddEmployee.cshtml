@@ -1,0 +1,32 @@
+﻿@model Task8WithGroup_3_7_25_.Models.Employee
+
+<form method="post" asp-action="AddEmployee">
+
+    <input type="number" asp-for="ManagerId" value="@Context.Session.GetInt32("ManagerId")" hidden />
+
+    <label>Full Name :</label>
+    <input type="text"  asp-for="FullName"  />
+
+
+    <label>Email :</label>
+    <input type="email"  asp-for="Email" />
+
+
+    <label>Password :</label>
+    <input type="password" asp-for="Password" />
+
+
+    <label>Profile Image :</label>
+    <input type="text"  asp-for="ProfileImage" />
+
+    <button type="submit">Add Employee</button>
+
+
+
+
+
+
+
+</form>
+
+<a asp-action="Home">Home</a>
